@@ -1,0 +1,12 @@
+# Core dependencies for simulation mode
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+docstring-parser==0.15
+
+# Optional but recommended for better performance
+python-multipart==0.0.6
+
+# PolyMCP - Required for agent orchestration
+# Install from GitHub:
+# pip install git+https://github.com/llm-use/Polymcp.git
