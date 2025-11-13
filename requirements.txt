@@ -1,0 +1,15 @@
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+pydantic==2.5.0
+paho-mqtt==1.6.1
+pymodbus==3.5.2
+redis==5.0.1
+influxdb-client==1.38.0
+pyyaml==6.0.1
+docstring-parser==0.15
+python-multipart==0.0.6
+pyserial==3.5  # per Modbus RTU
+
+# PolyMCP - Required for agent orchestration
+# Install from GitHub:
+# pip install git+https://github.com/llm-use/Polymcp.git
