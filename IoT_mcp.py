@@ -23,7 +23,7 @@ from influxdb_client.client.write_api import SYNCHRONOUS
 import yaml
 
 # Import del framework expose_tools fornito
-from mcp_expose import expose_tools
+from polymcp_toolkit import expose_tools
 
 # Configurazione logging
 logging.basicConfig(
@@ -1171,4 +1171,5 @@ if __name__ == "__main__":
         host="0.0.0.0", 
         port=8000,
         log_level="info"
+
     )
