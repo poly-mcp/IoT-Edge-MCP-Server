@@ -1,4 +1,4 @@
-[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/poly-mcp-iot-edge-mcp-server-badge.png)](https://mseep.ai/app/poly-mcp-iot-edge-mcp-server)
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/llm-use-iot-edge-mcp-server-badge.png)](https://mseep.ai/app/llm-use-iot-edge-mcp-server)
 
 # 🏭 IoT/Edge MCP Server
 
