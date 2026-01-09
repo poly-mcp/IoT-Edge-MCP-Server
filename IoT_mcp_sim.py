@@ -15,7 +15,7 @@ from enum import Enum
 from collections import deque
 
 # Framework expose_tools 
-from polymcp_toolkit import expose_tools
+from polymcp.polymcp_toolkit import expose_tools
 
 # Configurazione logging
 logging.basicConfig(
@@ -858,4 +858,5 @@ if __name__ == "__main__":
         host="0.0.0.0", 
         port=8000,
         log_level="info"
+
     )
